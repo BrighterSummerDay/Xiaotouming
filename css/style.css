@@ -351,7 +351,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section3::before {
-	background: url('../images/spiderman22.jpg') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('../images/Brighter.Summer.Day.jpg') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 
 /*section4の設定*/
@@ -366,13 +366,13 @@ section {
 	@media (orientation: portrait) {
 
 	#section1::before {
-		background-image: url('../images/section1_portrait.jpg');
+		background-image: url('../images/Brighter.Summer.Day.jpg');
 	}
 	#section2::before {
-		background-image: url('../images/section2_portrait.jpg');
+		background-image: url('../images/spiderman11.jpg');
 	}
 	#section3::before {
-		background-image: url('../images/section3_portrait.jpg');
+		background-image: url('../images/Kids.Return.jpg');
 	}
 
 	}/*追加指定ここまで*/
